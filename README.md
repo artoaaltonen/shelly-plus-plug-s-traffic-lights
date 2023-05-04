@@ -1,2 +1,3 @@
-# shelly-plus-plug-s-traffic-lights
-Use your Shelly device as traffic lights
+# Shelly Plus Plug S traffic lights
+
+Use your Shelly device as scheduled traffic lights.
